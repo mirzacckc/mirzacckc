@@ -1,7 +1,7 @@
-Hi 👋 My name is Mirza Can Çiçekçi
+Hi <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30"> My name is Mirza Can Çiçekçi
 ==================================
 
-Junior Full-Stack and Junior Game Developer
+Junior FrontEnd and Game Developer
 -----------------------------
 
 Nowadays I am trying to be a Full Stack Developer and Game Developer 🙂
@@ -9,6 +9,7 @@ Nowadays I am trying to be a Full Stack Developer and Game Developer 🙂
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [MyLinkedIn](http://linkedin.com/in/mirza-can-cicekci)
 * ✉️  You can contact me at [cicekcimirzacan@gmail.com](mailto:cicekcimirzacan@gmail.com)
+* ✒️  You can read some of my articles in [Medium](https://medium.com/@mirzacancicekci) 
 * 🧠  I'm learning Android Studio and DataScience with Python
 
 <a href="https://www.github.com/mirzacckc" target="_blank" rel="noreferrer"><img
